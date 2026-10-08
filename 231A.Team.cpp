@@ -1,3 +1,10 @@
+/*
+ * Platform: Codeforces
+ * Problem: 231A - Team
+ * Link: https://codeforces.com/problemset/problem/231/A
+ * Time: O(n)
+ * Space: O(1)
+ */
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

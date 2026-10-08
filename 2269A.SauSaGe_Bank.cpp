@@ -1,3 +1,10 @@
+/*
+ * Platform: Codeforces
+ * Problem: 2269A - SauSaGe Bank
+ * Link: https://codeforces.com/problemset/problem/2269/A
+ * Time: O(t)
+ * Space: O(1)
+ */
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
