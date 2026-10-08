@@ -3,7 +3,7 @@
  * Problem: 2267A - Turn Into a Palindrome
  * Link:https://codeforces.com/problemset/problem/2267/A
  * Time: O(t*n) where t is number of test cases and n is length of the string
- * Space: O(n) for length of the string
+ * Space: O(n) for storing the input string
  */
 #include<bits/stdc++.h>
 using namespace std;
