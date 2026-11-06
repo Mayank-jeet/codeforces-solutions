@@ -4,7 +4,8 @@
  * Link: https://codeforces.com/problemset/problem/2278/D
  * Time: O(nlog(n))) where n is the size of the input vector
  * Space: O(1)
- */#include<bits/stdc++.h>
+ */
+#include<bits/stdc++.h>
 using namespace std;
 int main() {
     int t;
